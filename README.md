@@ -10,7 +10,7 @@
 # Laravel Project with Livewire Jetstream and Alpine.js
 
 ## Features
-
+- **User Registration**: Implemented **Jetstream** for an optimal authentication flow. Jetstream gives more flexibility in managing user attributes, passwords, and other authentication methods 
 - **Dynamic Interactions**: Utilized **Alpine.js** to provide reactive user interfaces.
 - **Optimized Blade Templates**: Integrated **Livewire** components within Laravel blade files to avoid redundancy.
 - **Database Integration**: My MySQL database name is `Konekt` (visible in the .env file), managed via **XAMPP**.
